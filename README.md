@@ -1,2 +1,2 @@
 # SampleJava
-Sample Java Project
+Javaのサンプル詰め合わせ
