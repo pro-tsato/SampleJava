@@ -32,7 +32,7 @@ public class URLCheck {
 	}
 	
 	/**
-	 * 動作確認要main
+	 * 動作確認用main
 	 * @param args 
 	 */
 	public static void main(String[] args) {
