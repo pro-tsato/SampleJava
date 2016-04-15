@@ -1,3 +1,4 @@
+package xyz.ronrico151.samplejava;
 
 /**
  * 緯度経度に関するユーティリティクラス.

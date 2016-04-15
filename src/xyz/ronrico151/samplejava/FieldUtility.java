@@ -1,3 +1,5 @@
+package xyz.ronrico151.samplejava;
+
 import java.lang.reflect.Field;
 import java.lang.reflect.Modifier;
 import java.util.ArrayList;

@@ -1,3 +1,5 @@
+package xyz.ronrico151.samplejava;
+
 import java.io.PrintWriter;
 import java.io.StringWriter;
 

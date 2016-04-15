@@ -1,3 +1,4 @@
+package xyz.ronrico151.samplejava;
 
 /**
  * URLチェックに関するクラス.
